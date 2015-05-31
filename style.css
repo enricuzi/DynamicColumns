@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+}
+
+.row {
+}
+
+.boxes {
+	text-align: center;
+}
+
+.box{
+	background-color: silver;
+	background-image: url(a.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 100%;
+}
+
+.conditional {
+	height: 10%;
+	background-color: red;
+	background-color: blue\9;
+	text-align: center;
+	font-size: 2em;
+}
